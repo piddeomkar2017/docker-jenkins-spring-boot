@@ -11,7 +11,7 @@
 	<groupId>com.omkar.microservice</groupId>
 	<artifactId>docker-jenkins-spring-boot</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>docker-jenkins-spring-boot</name>
 	<description>docker-spring-boot</description>
 	<properties>
