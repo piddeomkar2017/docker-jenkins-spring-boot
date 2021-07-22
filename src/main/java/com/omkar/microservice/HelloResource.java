@@ -11,7 +11,7 @@ public class HelloResource {
 	@GetMapping("/hello")
 	public String hello()
 	{
-		return "Hello World from Omkar";
+		return "Hello World from Omkar. I am learning devops";
 	}
 	
 }
