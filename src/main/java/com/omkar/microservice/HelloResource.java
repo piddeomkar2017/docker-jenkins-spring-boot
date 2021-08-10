@@ -21,7 +21,7 @@ public class HelloResource {
 	@GetMapping("/hi-hello")
 	public String hello2()
 	{
-		return "hi-hello from Omkar Pidde....todays date is 10/08/2021";
+		return "hi-hello from Omkar Pidde....todays date is 10/08/2021....again changed";
 	}
 	
 }
